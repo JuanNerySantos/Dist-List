@@ -1,8 +1,7 @@
-package com.juancarlos.dslist.service;
+package com.juancarlos.dslist.services;
 
-import com.juancarlos.dslist.dto.GameMinDto;
 import com.juancarlos.dslist.entities.Games;
-import com.juancarlos.dslist.repository.GameRepository;
+import com.juancarlos.dslist.repositories.GameRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
